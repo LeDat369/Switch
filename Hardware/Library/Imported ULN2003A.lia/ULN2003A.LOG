@@ -1,0 +1,38 @@
+PCAD Importer Log
+Project : ULN2003A.LibPkg
+
+Section : D:\PROJECT\SwitchWifi\Hardware\SW_Circuit\Library\ULN2003A.lia
+    Section : PCB Library - ULN2003A.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 2001A On Line 713
+            Warning - 1 : Skipping Token attachedSymbol On Line 899
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ULN2003A.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 108
+            Warning - 1 : Skipping Token layerContents On Line 126
+            Warning - 1 : Skipping Token layerContents On Line 134
+            Warning - 1 : Skipping Token layerContents On Line 138
+            Warning - 1 : Skipping Token multiLayer On Line 149
+            Warning - 1 : Skipping Token layerContents On Line 167
+            Warning - 1 : Skipping Token layerContents On Line 181
+            Warning - 1 : Skipping Token layerContents On Line 281
+            Warning - 1 : Skipping Token multiLayer On Line 388
+            Warning - 1 : Skipping Token layerContents On Line 406
+            Warning - 1 : Skipping Token layerContents On Line 413
+            Warning - 1 : Skipping Token layerContents On Line 513
+            Warning - 1 : Skipping Token layerContents On Line 611
+        EndSection
+
+        Section : Generating SCH Library - ULN2003A.SchLib
+        EndSection
+    EndSection
+EndSection
